@@ -12,3 +12,10 @@
 ![image](https://user-images.githubusercontent.com/8421214/118023186-40610d80-b32b-11eb-8d3c-5c7b0df2a36c.png)
 
 **Note**: Voicefile not saved
+
+**Observations:**
+- Easy to understand and make changes
+- Simple yet efficient library for text to speech 
+
+**Next Steps:**
+- Integrate in a website
